@@ -4,7 +4,7 @@
 ###### qkwl521@naver.com
 
 #### 🍽 Blog
-##### [https://butterwalnut.tistory.com/](https://duckgugong.tistory.com/)
+##### [https://duckgugong.tistory.com/](https://duckgugong.tistory.com/)
 
 #### 🎆 Interests
 
