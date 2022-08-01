@@ -1,20 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejzl521&show_icons=true&theme=radical)  
 
-
-Here are some ideas to get you started:
-<img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/>
-
-- 🔭 I’m currently working on …
-- 🌱 I’m currently learning …
-- 👯 I’m looking to collaborate on …
-- 🤔 I’m looking for help with …
-- 💬 Ask me about …
-- 📫 How to reach me: …
-- 😄 Pronouns: …
-- ⚡ Fun fact: …
-—>
-
-
 #### 🗽 Contact
 ###### qkwl521@naver.com
 
