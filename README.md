@@ -22,5 +22,5 @@
 <img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="http://img.shields.io/badge/-Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 </div>  
