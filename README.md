@@ -1,6 +1,5 @@
 # ABOUT Duckgugong 👍👍🏻👍🏼👍🏽👍🏾👍🏿
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejzl521&show_icons=true&theme=radical)  
 
 #### 🗽 Contact
 ###### qkwl521@naver.com
