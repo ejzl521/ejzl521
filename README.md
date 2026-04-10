@@ -26,7 +26,6 @@
 <div>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-673AB8?style=for-the-badge&logo=Recoil&logoColor=white">
-<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
 <img src="https://img.shields.io/badge/StompJS-FF0000?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/SockJS-000000?style=for-the-badge&logo=&logoColor=white">
 </div>
